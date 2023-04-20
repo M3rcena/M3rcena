@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael F.</h1>
+<h1 align="center">Hi 👋, I'm Michail F.</h1>
 <h3 align="center">A passionate junior developer from Greece</h3>
 
 - 🔭 I’m currently working on [Milrato v2 | Tomato6966](https://github.com/Tomato6966)
