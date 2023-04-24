@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://portfolio-michaelf.web.app/blog.html](https://portfolio-michaelf.web.app/blog.html)
 
-- 📫 How to reach me **letgetsomebitcoin@gmail.com**
+- 📫 How to reach me **michaelfarmakis2007@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-michaelf.web.app/about.html](https://portfolio-michaelf.web.app/about.html)
 
