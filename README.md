@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael F.</h1>
 <h3 align="center">A passionate junior developer from Greece</h3>
+<p align="center"><img src="https://discord.c99.nl/widget/theme-3/682983233851228161.png" /></p>
 
 - 🔭 I’m currently working on [Milrato v2 | Tomato6966](https://github.com/Tomato6966/Mivator)
 
