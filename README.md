@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael F.</h1>
 <h3 align="center">A passionate junior developer from Greece</h3>
-<p align="center"><img src="https://discord.c99.nl/widget/theme-3/682983233851228161.png" /></p>
+<p align="center"><a href="https://discord.com/users/682983233851228161/"><img src="https://discord.c99.nl/widget/theme-3/682983233851228161.png" /></a></p>
 
 - 🔭 I’m currently working on [Milrato v2 | Tomato6966](https://github.com/Tomato6966/Mivator)
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://m3rcena.github.io/#work](https://m3rcena.github.io/#work)
 
-- 📝 I regularly write articles on [https://m3rcena.github.io/#blog]([https://portfolio-michaelf.web.app/blog.html](https://m3rcena.github.io/#blog))
+- 📝 I regularly write articles on [https://m3rcena.github.io/#blog](https://m3rcena.github.io/#blog)
 
 - 📫 How to reach me **michaelfarmakis2007@gmail.com**
 
