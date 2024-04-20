@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Python, Javascript and other different languages**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-michaelf.web.app/](https://portfolio-michaelf.web.app/)
+- 👨‍💻 All of my projects are available at [https://m3rcena.github.io/#work](https://m3rcena.github.io/#work)
 
-- 📝 I regularly write articles on [https://portfolio-michaelf.web.app/blog.html](https://portfolio-michaelf.web.app/blog.html)
+- 📝 I regularly write articles on [https://m3rcena.github.io/#blog]([https://portfolio-michaelf.web.app/blog.html](https://m3rcena.github.io/#blog))
 
 - 📫 How to reach me **michaelfarmakis2007@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-michaelf.web.app/about.html](https://portfolio-michaelf.web.app/about.html)
+- 📄 Know about my experiences [https://m3rcena.github.io/#about](https://m3rcena.github.io/#about)
 
 - ⚡ Fun fact **I started 2 years ago**
 
