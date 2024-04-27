@@ -28,4 +28,4 @@
 <p><a href="https://www.buymeacoffee.com/letgetsomeu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="letgetsomeu" /></a></p><br><br>
 
 <h3 align="left">Github Overview:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=M3rcena&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M3rcena&show_icons=true&theme=radica" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=M3rcena&show_icons=true&theme=radical" /></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=M3rcena&show_icons=true&theme=radical" /></p>
