@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Studying Informatics and Telecommunications at **UoA/EKPA**
-- 🪖 Balancing development with my ongoing mandatory military service
+- 🪖 Completed my mandatory military service
 - 🔭 I’m currently working on my own projects!
 - 🌱 Deep-diving into **C, Java, System Architecture, and RISC-V Assembly**
 - ⚡ Fun fact: **I started my coding journey 4 years ago!**
@@ -76,5 +76,5 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=M3rcena&bg_color=00000000&color=e5484d&line=e5484d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-nu-six.vercel.app/graph?username=M3rcena&bg_color=00000000&color=e5484d&line=e5484d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
